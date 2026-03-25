@@ -1,0 +1,12 @@
+{
+  "canciones": [
+    {
+      "Cancion1": "Cancion2",
+      "https://github.com/Lefinwe/CancionesNF2/raw/refs/heads/main/cancion1.mp3": "https://github.com/Lefinwe/CancionesNF2/raw/refs/heads/main/cancion2.mp3"
+    },
+    {
+      "Cancion1": "Cancion3",
+      "https://github.com/Lefinwe/CancionesNF2/raw/refs/heads/main/cancion1.mp3": "https://github.com/Lefinwe/CancionesNF2/raw/refs/heads/main/cancion3.mp3"
+    }
+  ]
+}
